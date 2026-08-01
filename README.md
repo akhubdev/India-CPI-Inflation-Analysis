@@ -110,7 +110,7 @@ India-CPI-Inflation-Analysis/
 ### Connect with Me
 
 - LinkedIn: *(https://www.linkedin.com/in/akashdastech/)*
-- GitHub: *(Add your GitHub profile link here)*
+- GitHub: *(https://github.com/akhubdev)*
 
 ## 📸 Dashboard Preview
 
