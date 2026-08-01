@@ -120,20 +120,30 @@ India-CPI-Inflation-Analysis/
 
 ### Q1 – Category Contribution
 
-> *(Upload Screenshot)*
+![Q1 - Category Contribution](q1-category-contribution.png)
 
 ### Q2 – Year-over-Year Inflation Trend
 
-> *(Upload Screenshot)*
+![Q2 - YoY Trend](q2-yoy-trend.png)
 
 ### Q3 – Food Inflation Trend
 
-> *(Upload Screenshot)*
+![Q3 - Food Inflation](q3-food-inflation.png)
 
 ### Q4 – COVID-19 Impact Analysis
 
-> *(Upload Screenshot)*
+![Q4 - Covid Impact](q4-covid-impact.png)
 
 ### Q5 – Energy CPI Correlation Analysis
 
-> *(Upload Screenshot)*
+![Q5 - Energy Correlation ](q5-energy-correlation.png)
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+## 🙏 Thank You
+
+Thank you for visiting this repository.
+
+If you have any suggestions or feedback, feel free to connect with me on LinkedIn or GitHub.
