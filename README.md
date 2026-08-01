@@ -116,7 +116,7 @@ India-CPI-Inflation-Analysis/
 
 ### Executive Dashboard
 
-> *(Upload a screenshot of your Dashboard here after creating the repository.)*
+![Executive Dashboard](dashboard.png)
 
 ### Q1 – Category Contribution
 
